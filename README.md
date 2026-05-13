@@ -60,6 +60,6 @@ Praticar manipulação e análise de dados com Python, simulando situações rea
 
 ## Referência de estudo
 
-Este projeto foi desenvolvido com base nos estudos realizados através do vídeo **"Tudo de Pandas para Python (Didática Suprema)"**, do canal **Hashtag Programação**, aplicando na prática os conceitos aprendidos durante os estudos.
+Este projeto foi desenvolvido com base nos estudos realizados através do vídeo **"Tudo de Pandas para Python (Didática Suprema)"**, do canal **Hashtag Programação** :), aplicando na prática os conceitos aprendidos durante os estudos.
 
 Canal: [Hashtag Programação](https://www.youtube.com/@HashtagProgramacao)
